@@ -44,7 +44,7 @@ Before running the application, make sure you have:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/naitikmp/stock-analyzer.git
+git clone https://github.com/Naitikmp/Stock-analysis-app-using-LLMs
 cd stock-analyzer
 ```
 
