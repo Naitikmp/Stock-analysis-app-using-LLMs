@@ -66,7 +66,7 @@ def get_stock_ticker(company_name):
     except Exception:
         return "Ticker not found"
 
-def create_agent(api_key):
+def create_agent(api_key) :
     llm = ChatOpenAI(temperature=0, model_name='gpt-4o-mini', api_key=api_key)
     # search = DuckDuckGoSearchRun()
     
