@@ -22,7 +22,7 @@ A Demo simple web application that provides intelligent stock analysis and recom
 - OpenAI GPT models
 - yfinance
 - BeautifulSoup4
-- DuckDuckGo Search
+- DuckDuckGo Search(Not implemented and rather used google search)
 
 ### Frontend
 - Next.js 13+
