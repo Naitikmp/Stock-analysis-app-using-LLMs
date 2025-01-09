@@ -66,6 +66,7 @@ pip install -r requirements.txt
 ```env
 FLASK_ENV=development
 FLASK_APP=app.py
+OPENAI_API_KEY="your key here"
 ```
 
 ### Frontend Setup
